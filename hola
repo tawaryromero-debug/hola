@@ -1,1 +1,3 @@
-
+name = input("ingrese su nombre")
+years = input("ingrese su edad")
+print("hola, {name} tienes {years} años")
